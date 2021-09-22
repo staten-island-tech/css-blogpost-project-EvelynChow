@@ -1,8 +1,14 @@
 body {
   background-color: #e6e6fa;
-  color: #000;
-  font-size: 50;
 }
-h1 {
-  color: burlywood;
+
+.main-header {
+  text-align: center;
+  color: rgb(29, 6, 57);
+  font-size: 50px;
+}
+
+h2 {
+  color: rgb(29, 6, 57);
+  font-size: 20px;
 }
