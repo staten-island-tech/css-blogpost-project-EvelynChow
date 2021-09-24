@@ -3,8 +3,10 @@ body {
 }
 
 .background {
-  background-color: cadetblue;
-  color: aqua;
+  background-color: rgb(255, 255, 255);
+  margin-left: 130px;
+  margin-right: 130px;
+  margin-top: 10px;
 }
 .main-header {
   margin-top: 50px;
@@ -13,7 +15,16 @@ body {
   font-size: 50px;
 }
 
-h2 {
+.second {
+  background-color: white;
+  text-align: center;
   color: rgb(29, 6, 57);
-  font-size: 20px;
+  margin-top: 60px;
+  margin-left: 600px;
+  margin-right: 600px;
+}
+
+.creampuff {
+  color: rgb(29, 6, 57);
+  font-size: 30px;
 }
