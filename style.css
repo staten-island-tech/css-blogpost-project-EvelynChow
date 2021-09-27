@@ -32,3 +32,15 @@ body {
   color: rgb(38, 6, 57);
   font-size: 40px;
 }
+
+.text {
+  text-align: center;
+  color: rgb(29, 6, 57);
+  font-size: 25px;
+  font-family: "Spectral", serif;
+}
+
+.pictures {
+  width: 500px;
+  height: 500px;
+}
