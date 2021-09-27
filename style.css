@@ -1,11 +1,11 @@
 body {
-  background-color: #e6e6fa;
+  background-color: #f3e6fa;
 }
 
 .background {
   background-color: rgb(255, 255, 255);
-  margin-left: 130px;
-  margin-right: 130px;
+  margin-left: 300px;
+  margin-right: 300px;
   margin-top: 10px;
 }
 .main-header {
@@ -22,9 +22,13 @@ body {
   margin-top: 60px;
   margin-left: 500px;
   margin-right: 500px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
-.creampuff {
-  color: rgb(29, 6, 57);
-  font-size: 30px;
+.titles {
+  color: rgb(38, 6, 57);
+  font-size: 40px;
 }
