@@ -4,10 +4,11 @@ body {
 
 .background {
   background-color: rgb(255, 255, 255);
-  margin-left: 300px;
-  margin-right: 300px;
+  margin-left: 450px;
+  margin-right: 450px;
   margin-top: 10px;
 }
+
 .main-header {
   margin-top: 50px;
   text-align: center;
@@ -23,9 +24,10 @@ body {
   margin-left: 500px;
   margin-right: 500px;
   padding-top: 2px;
-  padding-bottom: 2px;
+  padding-bottom: 17px;
   padding-left: 50px;
   padding-right: 50px;
+  border: 3px solid purple;
 }
 
 .titles {
@@ -43,4 +45,8 @@ body {
 .pictures {
   width: 500px;
   height: 500px;
+}
+
+.link {
+  font-size: 25px;
 }
