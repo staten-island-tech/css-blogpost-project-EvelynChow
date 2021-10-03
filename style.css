@@ -2,7 +2,7 @@ body {
   background-color: #f3e6fa;
 }
 
-.background {
+.blog-background {
   background-color: rgb(255, 255, 255);
   margin-left: 450px;
   margin-right: 450px;
@@ -11,14 +11,14 @@ body {
   border: 3px solid purple;
 }
 
-.main-header {
+.blog-main-header {
   margin-top: 50px;
   text-align: center;
   color: rgb(29, 6, 57);
   font-size: 50px;
 }
 
-.blogs {
+.blog-blogs {
   background-color: white;
   text-align: center;
   color: rgb(29, 6, 57);
@@ -32,23 +32,23 @@ body {
   border: 3px solid purple;
 }
 
-.titles {
+.blog-titles {
   color: rgb(38, 6, 57);
   font-size: 40px;
 }
 
-.text {
+.blog-text {
   text-align: center;
   color: rgb(29, 6, 57);
   font-size: 25px;
   font-family: "Spectral", serif;
 }
 
-.pictures {
+.blog-pictures {
   width: 500px;
   height: 500px;
 }
 
-.link {
+.blog-link {
   font-size: 25px;
 }
